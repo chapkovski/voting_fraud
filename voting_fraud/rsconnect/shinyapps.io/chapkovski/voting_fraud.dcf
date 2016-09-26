@@ -1,0 +1,9 @@
+name: voting_fraud
+account: chapkovski
+server: shinyapps.io
+appId: 127799
+bundleId: 568240
+url: https://chapkovski.shinyapps.io/voting_fraud/
+when: 1474863030.31703
+asMultiple: FALSE
+asStatic: FALSE

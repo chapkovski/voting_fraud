@@ -10,6 +10,11 @@
 library(shiny)
 library(rootSolve)
 library(ggplot2)
+Population<-22
+Cost<-1
+Loss<-0
+Win<-10
+Tie<-(Loss+Win)/2
 
 # Define UI for application that draws a histogram
 
